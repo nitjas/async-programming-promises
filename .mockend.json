@@ -1,6 +1,6 @@
 {
   "Session": {
-    "Session": {
+    "session": {
       "center_id": "int",
       "name": "string",
       "address": "string",
