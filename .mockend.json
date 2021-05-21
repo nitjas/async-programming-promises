@@ -1,6 +1,8 @@
 {
   "Result": {
-    "session": {
+    "sessions": "Session[]"
+  },
+  "Session": {
       "center_id": "int",
       "name": "string",
       "address": "string",
